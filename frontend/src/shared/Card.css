@@ -1,0 +1,16 @@
+.card {
+    position: relative;
+    margin: 0 auto;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+    overflow: hidden;
+    background: #282828;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .card:hover,
+  .card:active {
+    border: solid 3px #BCC700;
+  }

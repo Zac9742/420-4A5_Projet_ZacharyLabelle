@@ -1,0 +1,36 @@
+.stage-item a {
+  color: white;
+  text-decoration: none;
+}
+.stage-item {
+    margin: 1rem;
+    width: calc(45% - 2rem);
+    min-width: 17.5rem;
+    color: white;
+  }
+
+  .stage-item a:hover,
+  .stage-item a:active {
+    background: #ffffff;
+  }
+  
+  .stage-item__content {
+    padding: 0;
+  }
+  
+  .stage-item__info h2 {
+    font-size: 1.5rem;
+    margin: 0 0 0.5rem 0;
+    font-weight: normal;
+    color: #ffffff;
+  }
+  
+  .stage-item:hover h2,
+  .stage-item:active h2{
+    color: #BCC700;
+    
+  }
+  
+  .stage-item__info h3 {
+    margin: 0;
+  }

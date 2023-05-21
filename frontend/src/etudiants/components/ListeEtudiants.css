@@ -1,0 +1,11 @@
+.etudiants-list {
+    list-style: none;
+    margin: auto;
+    width: 90%;
+    max-width: 80rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex: 0 0 33.3333%;
+    
+  }

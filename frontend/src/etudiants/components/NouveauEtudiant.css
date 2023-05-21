@@ -1,0 +1,18 @@
+.formulaire {
+    margin: 2em;
+    display: flex;
+    flex-direction: column;
+    flex: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+#nbEtudiantMax {
+    width: 25px;
+}
+
+#info {
+    padding-top: 0px;
+    margin-top: 0px;
+    font-size: x-small;
+    padding-bottom: 10px;
+}

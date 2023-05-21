@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DB_USER": "zaclabelle",
+        "DB_PASSWORD": "UxeIvlR0PKO6sZ1Y",
+        "DB_NAME":"cluster0"
+    }
+}

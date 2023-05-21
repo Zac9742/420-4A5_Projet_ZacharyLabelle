@@ -1,0 +1,21 @@
+.contenu-accueil {
+    margin:auto;
+    display: flex;
+    width: 100%;
+    max-width: 90rem;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.contenu-accueil img {
+    width: 400px;
+    height: auto;
+    border-radius: 5%;
+    border: 1px solid black
+}
+
+.contenu-accueil__texte {
+    padding: 1em;
+    justify-content: left;
+}
